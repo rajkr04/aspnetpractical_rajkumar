@@ -1,0 +1,14 @@
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\bin\Debug\net6.0\Album.Data.deps.json
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\bin\Debug\net6.0\Album.Data.runtimeconfig.json
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\bin\Debug\net6.0\Album.Data.dll
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\bin\Debug\net6.0\Album.Data.pdb
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.csproj.AssemblyReference.cache
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.AssemblyInfoInputs.cache
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.AssemblyInfo.cs
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.csproj.CoreCompileInputs.cache
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.dll
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\refint\Album.Data.dll
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.pdb
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\Album.Data.genruntimeconfig.cache
+E:\.NetCoreSession\AlbumAPI\AlbumAPI\Album.Data\obj\Debug\net6.0\ref\Album.Data.dll
